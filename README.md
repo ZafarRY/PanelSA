@@ -2,10 +2,6 @@
 
 SAMP & OpenMP Server Management Panel
 
-"Private" (https://img.shields.io/badge/PROJECT-PRIVATE-red?style=for-the-badge)
-"Version" (https://img.shields.io/badge/VERSION-1.0.0-007BFF?style=for-the-badge)
-"License" (https://img.shields.io/badge/LICENSE-PROPRIETARY-blue?style=for-the-badge)
-
 Manage Your Server. Your Way.
 
 </div>---
