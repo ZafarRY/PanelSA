@@ -27,14 +27,14 @@ Coming Soon...
 
 📋 Project Information
 
-Information| Details
-Project| PanelSA
-Category| Server Management
-Platform| Android
-Supported Server| SA-MP / OpenMP
-Version| 1.0.0
-Developer| ZafarRY
-License| Proprietary
+- Project Name: PanelSA
+- Developer: ZafarRY
+- Category: Server Management Panel
+- Platform: Android / Linux
+- Supported Server: SA-MP / OpenMP
+- Version: 1.0.0
+- Repository: Private
+- License: Proprietary
 
 📜 License & Copyright
 
@@ -42,7 +42,7 @@ Copyright © 2026 ZafarRY. All Rights Reserved.
 
 PanelSA is proprietary software.
 
-Unauthorized copying, modification, redistribution, or commercial use without permission from the copyright owner is prohibited.
+Unauthorized copying, modification, redistribution, or commercial use without permission from the copyright owner is strictly prohibited.
 
 ---
 
