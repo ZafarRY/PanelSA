@@ -30,7 +30,7 @@ Coming Soon...
 - Project Name: PanelSA
 - Developer: ZafarRY
 - Category: Server Management Panel
-- Platform: Android / Linux
+- Platform: Android
 - Supported Server: SA-MP / OpenMP
 - Version: 1.0.0
 - Repository: Private
