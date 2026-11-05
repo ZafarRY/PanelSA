@@ -30,7 +30,7 @@ Coming Soon...
 Information| Details
 Project| PanelSA
 Category| Server Management
-Platform| Android / Linux
+Platform| Android
 Supported Server| SA-MP / OpenMP
 Version| 1.0.0
 Developer| ZafarRY
