@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/panelsa-logo.png" width="420" alt="PanelSA Logo">PanelSA
+<div align="center"><img src="assets/panelsa-logo.png" width="420" alt="PanelSA Logo">
 
 SAMP & OpenMP Server Management Panel
 
