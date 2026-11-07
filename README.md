@@ -17,6 +17,7 @@ Built with a focus on simplicity, performance, and usability.
 - 🖥️ SAMP Server Management
 - ⚙️ OpenMP Server Management
 - 🌐 Localhost Server Support
+- 🗃️ Localhost Database Server 
 - 🚀 Server Control
 - 📊 Server Information
 - 🎨 Modern User Interface
